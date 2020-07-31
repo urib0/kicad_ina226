@@ -1,0 +1,2 @@
+# kicad_ina226
+strawberry linux で販売しているINA226モジュールのKiCadライブラリ
